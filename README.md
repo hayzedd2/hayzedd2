@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayzedd2
 - 👀 I’m interested in building web applications
-- 🌱 I’m a frontend web developer
+- 🌱 I’m a frontend engineer
 - 💞️ I’m looking to collaborate on real time web applications
 - 📫 How to reach me , my email - azeezalhameen1@gmail.com
 
